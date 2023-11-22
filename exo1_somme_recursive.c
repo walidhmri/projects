@@ -22,7 +22,7 @@ printf("Entrer le nombre des columns  :");
 scanf("%d",&nc);
 for (i= 0 ; i<nl ; i++){
     for ( j=0 ; j<nc ;j++){
-        printf("entrer la valeur de tableau[%d][%d] = ",i,j);
+        printf("entrer la valeur de t[%d][%d] = ",i,j);
         scanf("%d",&t[i][j]);
     }
     
