@@ -1,6 +1,6 @@
 // Oualid Hamri G3 q2
 // pour compiler ce fichier avec gcc utiliser cet instruction : gcc exo2_chercher_valeur.c
-// pour exécuter le programme sur cmd écrire : .\a.exe
+// pour exécuter le programme sur cmd écrire : .\a.exe 
 #include <stdio.h>
 #define maximum 100
 
